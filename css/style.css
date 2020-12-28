@@ -1,0 +1,25 @@
+body {
+    font-family: 'Viaoda Libre', cursive;
+    background-color: rgba(114, 184, 224, 0.75);
+    background: linear-gradient(180deg, #FFFFFF 60.04%, rgba(114, 184, 224, 0.75) 102.32%, rgba(172, 220, 248, 0) 102.33%), #FFFFFF;
+}
+.container {
+    margin: 0 auto;
+    margin-top: 30px;
+    max-width: 90%;
+    text-align: center;
+}
+.section-pictures {
+    margin-top: 110px;
+}
+.img-present {
+    height: 300px;
+}
+.img-present {
+    animation-delay: 1s;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+.present-text {
+    font-size: 20px;
+}
